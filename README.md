@@ -9,7 +9,7 @@ utility powershell script for watermarking images
 
 ## Workflow
 
-The workflow is pretty simple at this point. You select a folder containing the photos you want to watermark. After that you must select a destion folder where the tool will save the watermarked files.
+The workflow is pretty simple at this point. You select a folder containing the photos you want to watermark. After that you must select a destination folder where the tool will save the watermarked files.
 
 - select input folder (not recursing through subfolders, yet!)
 - select output folder
